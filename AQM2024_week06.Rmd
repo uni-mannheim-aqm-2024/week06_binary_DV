@@ -2,7 +2,7 @@
 title: "AQM Week 06 -- Models for Binary Dependent Variables"
 author: 
   - Oliver Rittmann
-date: "March 21, 2024"
+date: "April 8, 2024"
 output:
   html_document:
     toc: true
